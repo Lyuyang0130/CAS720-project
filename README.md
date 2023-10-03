@@ -1,5 +1,5 @@
 # CAS720-project
-Team Members: 
+Team Members
 
 Sun Kai
 
